@@ -12,3 +12,17 @@ C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.P
 C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\Tehtava1.csproj.GenerateResource.Cache
 C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.exe
 C:\Users\Esa\Documents\GitHub\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.pdb
+\\storage\homes\G7693\Dox\Documents\GitHubVisualStudio\IIO13200_NET_15S\Tehtava1\bin\Debug\IIO13200_15S.exe.config
+\\storage\homes\G7693\Dox\Documents\GitHubVisualStudio\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.exe
+\\storage\homes\G7693\Dox\Documents\GitHubVisualStudio\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.pdb
+\\storage\homes\G7693\Dox\Documents\GitHubVisualStudio\IIO13200_NET_15S\Tehtava1\bin\Debug\IIO13200_15S.exe
+\\storage\homes\G7693\Dox\Documents\GitHubVisualStudio\IIO13200_NET_15S\Tehtava1\bin\Debug\IIO13200_15S.pdb
+\\storage\homes\G7693\Dox\Documents\GitHubVisualStudio\IIO13200_NET_15S\Tehtava1\obj\Debug\Tehtava1.csprojResolveAssemblyReference.cache
+\\storage\homes\G7693\Dox\Documents\GitHubVisualStudio\IIO13200_NET_15S\Tehtava1\obj\Debug\MainWindow.g.cs
+\\storage\homes\G7693\Dox\Documents\GitHubVisualStudio\IIO13200_NET_15S\Tehtava1\obj\Debug\App.g.cs
+\\storage\homes\G7693\Dox\Documents\GitHubVisualStudio\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S_MarkupCompile.cache
+\\storage\homes\G7693\Dox\Documents\GitHubVisualStudio\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S_MarkupCompile.lref
+\\storage\homes\G7693\Dox\Documents\GitHubVisualStudio\IIO13200_NET_15S\Tehtava1\obj\Debug\MainWindow.baml
+\\storage\homes\G7693\Dox\Documents\GitHubVisualStudio\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.g.resources
+\\storage\homes\G7693\Dox\Documents\GitHubVisualStudio\IIO13200_NET_15S\Tehtava1\obj\Debug\IIO13200_15S.Properties.Resources.resources
+\\storage\homes\G7693\Dox\Documents\GitHubVisualStudio\IIO13200_NET_15S\Tehtava1\obj\Debug\Tehtava1.csproj.GenerateResource.Cache

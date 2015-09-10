@@ -1,0 +1,30 @@
+﻿<Window x:Class="Tehtava3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tehtava3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="198.053" Width="755.539">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="0*"/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+        <Label x:Name="lblFirstName" Content="Etunimi" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="26" Width="50"/>
+        <Label x:Name="lblSurName" Content="Sukunimi" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Height="26" Width="59"/>
+        <Label x:Name="lblTradePrice" Content="Siirtohinta" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" Height="26" Width="64"/>
+        <Label x:Name="lblTeam" Content="Seura" HorizontalAlignment="Left" Margin="10,103,0,0" VerticalAlignment="Top" Height="26" Width="40"/>
+        <TextBox x:Name="tbFristName" HorizontalAlignment="Left" Height="23" Margin="100,12,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+        <TextBox x:Name="tbSurName" HorizontalAlignment="Left" Height="23" Margin="100,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+        <TextBox x:Name="tbTradePrice" HorizontalAlignment="Left" Height="23" Margin="100,74,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+        <ComboBox x:Name="cbTeam" HorizontalAlignment="Left" Height="23" Margin="100,103,0,0" VerticalAlignment="Top" Width="200" Loaded="cbTeam_Loaded"/>
+        <Button x:Name="btnCreateNewPlayer" Content="Luo uusi pelaaja" HorizontalAlignment="Left" Margin="305,12,0,0" VerticalAlignment="Top" Width="150" Height="22" Click="btnCreateNewPlayer_Click"/>
+        <Button x:Name="btnSavePlayer" Content="Tallenna pelaaja" HorizontalAlignment="Left" Margin="305,43,0,0" VerticalAlignment="Top" Width="150" Height="22"/>
+        <Button x:Name="btnRemovePlayer" Content="Poista pelaaja" HorizontalAlignment="Left" Margin="305,74,0,0" VerticalAlignment="Top" Width="150" Height="22"/>
+        <Button x:Name="btnWritePlayer" Content="Kirjoita pelaaja" HorizontalAlignment="Left" Margin="305,105,0,0" VerticalAlignment="Top" Width="150" Height="22"/>
+        <Button x:Name="btnEnd" Content="Lopetus" HorizontalAlignment="Left" Margin="305,136,0,0" VerticalAlignment="Top" Width="150" Height="22"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="147" Margin="460,12,0,0" VerticalAlignment="Top" Width="280"/>
+    </Grid>
+</Window>

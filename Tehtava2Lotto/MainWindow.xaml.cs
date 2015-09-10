@@ -24,5 +24,20 @@ namespace Tehtava2Lotto
         {
             InitializeComponent();
         }
+
+        private void btnDraw_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnClear_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnClose_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
